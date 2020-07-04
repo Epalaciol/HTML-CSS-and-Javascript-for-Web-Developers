@@ -6,4 +6,4 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Week 2 Assigment
-[Module-2][https://github.com/Epalaciol/HTML-CSS-and-Javascript-for-Web-Developers/blob/master/week2/index.html]
+[Module-2](https://epalaciol.github.io/HTML-CSS-and-Javascript-for-Web-Developers/blob/master/week2/index.html)
