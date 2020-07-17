@@ -9,7 +9,7 @@ This repository contains my solutions to the assignments of the Coursera course
 [Module-2](https://epalaciol.github.io/HTML-CSS-and-Javascript-for-Web-Developers/week2/index.html)
 
 ### Week 3 Assigment
-[Module-3]
+[Module-3](https://epalaciol.github.io/HTML-CSS-and-Javascript-for-Web-Developers/week3/index.html)
 
 ### Week 4 Assigment
 [Module-4]
